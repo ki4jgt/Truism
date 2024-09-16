@@ -91,3 +91,5 @@ A horder has everything they and others need, and an anal individual greatly imp
 [Death](./customs/death.md)
 
 [The Forbidden](./customs/forbidden.md)
+
+###### This work has been placed in the public domain by its original author
