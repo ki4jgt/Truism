@@ -20,6 +20,6 @@ The joy and the sadness,
 Is where healing begins.
 
 
-May you walk between the shadows.
+As you walk between the shadows.
 
-May your Truth outshine all obstructions.
+May your Truth outshine all obstruction.
