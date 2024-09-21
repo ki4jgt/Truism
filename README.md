@@ -16,7 +16,7 @@ Truism is a personal open source philosophy, freely modifiable by anyone. The pu
 
 **truth (lowercased)** indicates an attribute of Truth seen from an angle and joined by other angles.
 
-**Primitive** is the proper term for an angle of truth, but it isn't used because it hinders comprehension. Truth itslelf is a primitive.
+**Primitive** is the proper term for an angle of truth, but it isn't used because it hinders comprehension. Truth itself is a primitive.
 
 ## Truisms
 
